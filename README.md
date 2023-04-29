@@ -1,5 +1,6 @@
 
 Breakdown Space Invaders:
+
 Variables:
 
 player: A variable to represent the player, holding the position, score, and number of lives.
@@ -27,6 +28,7 @@ Interactions:
 The player object interacts with the Enemy and Bullet classes, while the enemies list interacts with the Bullet class.
 
 Breakdown Meteors:
+
 Function:
 
 meteors(): Create meteors and let them fall from the top of the screen. Move the meteors, check for collisions with the player, and remove the meteors when they hit the ground.
